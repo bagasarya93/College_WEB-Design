@@ -1,0 +1,17 @@
+Prinsip Web Desain
+
+SITUS WEB DIBUAT UNTUK PENGGUNA
+- dESAINER HARUS FOKUS  PADA KEPPENTINGAN PENGGUNA
+- pertimbangkan karakter pengguna 
+- pengguna paling banyak
+
+UTILITY DAN USABLITY
+- kegunaan/ fungsi we
+
+BATASAN MEDIA
+- browser
+- bandwith
+
+PERHATIKAN GUIDOMAIN
+
+UNSUR-UNSUR WEB
