@@ -18,6 +18,12 @@ project :Desain Web Template
 
 h1{
     font-size: 40px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Courier New', Courier, monospace;
     color: #303890;
+}
+
+h2{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFAF00;
 }
