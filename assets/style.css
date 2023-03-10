@@ -178,4 +178,23 @@ h3{
 
 }
 
+.art-footer a, .art-footer a:link, .art-footer a:visited, .art-footer a:hover{
+    color:#fff;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin: 0 10px 0 10px;
 
+}
+.art-footer a:hover{
+    color:#ffa500;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    
+}
+
+.art-footer p{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
